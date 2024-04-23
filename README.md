@@ -2,7 +2,7 @@
 
 ## Installation
 
-- install necessary dependencies (eCal)
+- install necessary dependencies (eCal: Resources)
 - unzip the content of your measurement.zip into the root directory
 
 ```bash
@@ -21,15 +21,25 @@ source ./venv/bin/activate
 python hello_world_python.py
 ```
 
-- to run a measurement:
+- to run a measurement
 ```bash
 ./play.sh
 ```
 
-- or simply run the program with:
+- or simply run the program with
 ```bash
 ./run.sh
 ```
+
+## Images
+
+JetRacer in action
+<br>
+<img src="./images/jetracer-1.png" alt="Jetracer" width="280" height="700">
+
+JetRacer up-close
+<br>
+<img src="./images/jetracer.png" alt="Jetracer" width="280" height="280">
 
 ## Resources
 
