@@ -2,7 +2,7 @@
 
 ## Installation
 
-- install necessary dependencies (eCal: Resources)
+- install necessary software / dependencies (eCal: Resources)
 - unzip the content of your measurement.zip into the root directory
 
 ```bash
@@ -35,11 +35,11 @@ python hello_world_python.py
 
 JetRacer in action
 <br>
-<img src="./images/jetracer-1.png" alt="Jetracer" width="280" height="700">
+<img src="./images/jetracer-1.png" alt="Jetracer" width="400" height="700">
 
 JetRacer up-close
 <br>
-<img src="./images/jetracer.png" alt="Jetracer" width="280" height="280">
+<img src="./images/jetracer.jpg" alt="Jetracer" width="400" height="400">
 
 ## Resources
 
